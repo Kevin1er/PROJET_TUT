@@ -1,0 +1,38 @@
+Idées:
+  - Offres sugérées. 
+      Idée : Sugérées les meilleures offres possibles en fonction des historique des utilisateurs et des offres postées. Prédire les                    besoins des utilisateurs réguliers.
+      Technique : Analyse de la base de données.
+  
+  - Selections d'offre selon une zone géographique.
+      Idée : Géolocaliser les offres dans rayon particulier (en km).
+      Technique : Analyse de base de données.
+  
+  - Algorithme aide remplissage de valise de maniere optimal et sécuriser.
+      Idée : Recuperer dimensions, poids, résistance, sensibilité, valeurs (prix), destination (si != pour chaque) des colis pour                      calculer la position la plus optimal et sécuriser pour chaque colis dans la valise. 
+      Technique : Representation en volumes des colis et valise, etiqueter chaque volume avec leurs attributs (poids, dimensions, ...),                     remplir le volume valise avec les volumes colis de manière à avoir un remplissage le plus optimal et le plus sécuriser                   pour chaque volumes.
+                  
+      
+  - Suivi de colis.
+      Idée : Permettre à une personne en attente d'un colis de savoir où il se trouve et quand est-ce qu'il arrive.
+      Technique : Utilisation d'API tracking
+      
+  - Système de validation de reception.
+      Idée : Mettre en place un système permettant de valider la terminaison d'une offre.
+      Technique : Génération d'un code, d'un code barre ou autre forme de code. 
+      
+  - Chatbot.
+      Idée : Mettre un place un chatbot pour aider l'utilisateur.
+      Technique : Analyse par mot clés.
+      
+  - Traduction automatique.
+      Idée : Traduire automatiquement
+      Technique : traduction automatique selon le pays où a été créé le compte.
+      
+  - Génération automatique des prix.
+      Idée : Lors de la création d'une offres de transport de bagages, on pourra demander à être payer. Le but et de générer une                      indication sur le prix à appliquer.
+      Technique : Analyse de base de données.
+   
+  - Système de vérification de comptes (exemple : vérification visage sur image).
+      Idée : Algorithme permettant de valider un compte de façon plus précise.
+      Technique : Peut être une analyse de l'image de profil pour y reconnaître un visage.
+      
